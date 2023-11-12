@@ -1,0 +1,4 @@
+train: D:\\File\\YOLO\\dataset\\train\\images
+val: D:\\File\\YOLO\\dataset\\valid\\images
+nc: 2
+names: ['ordinary', 'overlap']

@@ -1,0 +1,4 @@
+train: D:\\File\\ZKY\\dataset_split\\dataset_split\\images\\train
+val: D:\\File\\ZKY\\dataset_split\\dataset_split\\images\\val
+nc: 2
+names: ['laser line', 'heavy line']
